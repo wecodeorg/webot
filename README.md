@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  Duo Community Bot
+  Community Bot
   <br>
 </h1>
 
@@ -17,8 +17,7 @@
 </p>
 
 # Overview
-
-Duo is a discord bot - This is a *self-hosted bot* – meaning you will need
+A discord bot - This is a *self-hosted bot* – meaning you will need
 to host and maintain your own instance. 
 
 Installation is easy, and you do **NOT** need to know anything about coding! Aside
